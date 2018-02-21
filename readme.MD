@@ -18,16 +18,16 @@ php artisan serve
 npm run watch
 ```
 
-#### This project need 2 collections of data and a database instance running (MongoDB pre configured):
+#### This project needs 2 collections of data and a database instance running (MongoDB pre configured):
 
 * cars ['name', 'owner', 'color', 'manufacturer']
 * spaceships ['name', 'capacity', 'manufacturer']
 
 #### MongoDB local config:
 
-DATABASE exam
-USERNAME ''
-PASSWORD ''
+* DATABASE exam
+* USERNAME ''
+* PASSWORD ''
 
 In resources folder has two json files with the needed data ready for insert in MongoDB
 
