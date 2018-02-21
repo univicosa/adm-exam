@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Golf",
+    "owner": "Mia",
+    "color": "Preto",
+    "manufacturer": "Volkswagem"
+  },
+  {
+    "name": "Eclipse",
+    "owner": "Emanelle",
+    "color": "Prata",
+    "manufacturer": "Mitsubshi"
+  },
+  {
+    "name": "Supra",
+    "owner": "Jeniffer",
+    "color": "Branco",
+    "manufacturer": "Toyota"
+  },
+  {
+    "name": "350z",
+    "owner": "Ana",
+    "color": "Vermelho",
+    "manufacturer": "Nissan"
+  },
+  {
+    "name": "Challenger rt",
+    "owner": "Bruna",
+    "color": "Vermelho",
+    "manufacturer": "Dodge"
+  },
+  {
+    "name": "M3",
+    "owner": "Camila",
+    "color": "Azul",
+    "manufacturer": "BMW"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dragon V2",
+    "capacity": NumberInt(7),
+    "manufacturer": "SpaceX"
+  },
+  {
+    "name": "CST-100 Starliner",
+    "capacity": NumberInt(7),
+    "manufacturer": "Boeing"
+  },
+  {
+    "name": "Orion",
+    "capacity": NumberInt(4),
+    "manufacturer": "NASA"
+  },
+  {
+    "name": "Dream Chaser",
+    "capacity": NumberInt(7),
+    "manufacturer": "Sierra Nevada"
+  },
+  {
+    "name": "BFR",
+    "capacity": NumberInt(100),
+    "manufacturer": "Space X"
+  }
+]
